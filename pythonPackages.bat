@@ -1,2 +1,13 @@
 pip install numpy
 pip install pandas
+pip install plotly
+pip install slackweb
+pip install flask
+pip install flask_slack
+pip install matplotlib
+pip install pyodbc
+pip install prettytable
+pip install xlwt
+pip install azure
+pip install azure.storage
+pip install bitstring
